@@ -1,12 +1,12 @@
-# Server Adoption Solution Factory Aligned to Cloud Adoption Framework # 
+# Server Migration Solution Factory Aligned to Cloud Adoption Framework # 
 The Server Adoption CAF Solution Factory is collection of eBook, TaskList in DevOps Project and Excel, Security Policies suggestions that can help Microsoft customers and partners to deploy and manage Servers in alignment to Cloud Adoption Framework (CAF). 
 
  The Azure Cloud Adoption Journey
- ![CAF](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/TechnicalEnablement/CAF.png)
+ ![CAF](./WVD_CAF_SolutionFactory/blob/master/TechnicalEnablement/CAF.png)
 
-## Server Adoption CAF Solution Factory Contents
+## Server Migration CAF Solution Factory Contents
 
-* [eBook: Server Adoption Aligned To Cloud Adoption Framework](https://github.com/faridabharmal/SQL_CAF_SolutionFactory/tree/master/TechnicalEnablement)
+* [eBook: Server Adoption Aligned To Cloud Adoption Framework](./tree/master/TechnicalEnablement/1_eBook_ServerMigration_Aligned_To_Cloud_Adoption_Framework.docx)
 
    Detailed guidance about what one needs to do in each of the Cloud Adoption phases for Server Migration starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete Server migration and management aligned to the Cloud Adoption Framework methodology.
    
