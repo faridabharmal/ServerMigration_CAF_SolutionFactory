@@ -8,7 +8,7 @@ The Server Adoption CAF Solution Factory is collection of eBook, TaskList in Dev
 
 * [eBook: Server Adoption Aligned To Cloud Adoption Framework](https://github.com/faridabharmal/SQL_CAF_SolutionFactory/tree/master/TechnicalEnablement)
 
-   Detailed guidance about what one needs to do in each of the Cloud Adoption phases for SQL Migration starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete SQL migration and management aligned to the Cloud Adoption Framework methodology.
+   Detailed guidance about what one needs to do in each of the Cloud Adoption phases for Server Migration starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete Server migration and management aligned to the Cloud Adoption Framework methodology.
    
    This eBook contains the following documents:    
     eBook_ServerMigration_Aligned_To_Cloud_Adoption_Framework.docx
@@ -28,9 +28,9 @@ The Server Adoption CAF Solution Factory is collection of eBook, TaskList in Dev
    Incase if you are not leveraging Azure DevOps for project management, no worries. We have provided all the necessary steps in an excel sheet which can be leveraged as is or imported into your own project management tool of choice.  
 
  
-* [CAF Governance Phase for SQL Migration - Security policies](https://github.com/faridabharmal/SQL_CAF_SolutionFactory/tree/master/TechnicalEnablement)
+* [CAF Governance Phase for Server Migration - Security policies](https://github.com/faridabharmal/SQL_CAF_SolutionFactory/tree/master/TechnicalEnablement)
 
-   One common question that we get is what are the security considerations for SQL Migartion. So we have provided guidance about how to leverage the Azure policies to secure your environment. This can act as a good starting point for your security consideration. 
+   One common question that we get is what are the security considerations for Server Migartion. So we have provided guidance about how to leverage the Azure policies to secure your environment. This can act as a good starting point for your security consideration. 
 
 
 ## Additional Links
