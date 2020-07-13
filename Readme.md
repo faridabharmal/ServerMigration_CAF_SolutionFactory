@@ -6,7 +6,7 @@ The Server Adoption CAF Solution Factory is collection of eBook, TaskList in Dev
 
 ## Server Migration CAF Solution Factory Contents
 
-* [eBook: Server Adoption Aligned To Cloud Adoption Framework](./tree/master/TechnicalEnablement/1_eBook_ServerMigration_Aligned_To_Cloud_Adoption_Framework.docx)
+* [eBook: Server Adoption Aligned To Cloud Adoption Framework](1_eBook_ServerMigration_Aligned_To_Cloud_Adoption_Framework.docx)
 
    Detailed guidance about what one needs to do in each of the Cloud Adoption phases for Server Migration starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete Server migration and management aligned to the Cloud Adoption Framework methodology.
    
