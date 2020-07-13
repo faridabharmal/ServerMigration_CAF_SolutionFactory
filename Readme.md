@@ -2,7 +2,7 @@
 The Server Adoption CAF Solution Factory is collection of eBook, TaskList in DevOps Project and Excel, Security Policies suggestions that can help Microsoft customers and partners to deploy and manage Servers in alignment to Cloud Adoption Framework (CAF). 
 
  The Azure Cloud Adoption Journey
- ![CAF](./WVD_CAF_SolutionFactory/blob/master/TechnicalEnablement/CAF.png)
+ ![CAF](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/TechnicalEnablement/CAF.png)
 
 ## Server Migration CAF Solution Factory Contents
 
