@@ -11,8 +11,8 @@ The Server Adoption CAF Solution Factory is collection of eBook, TaskList in Dev
    Detailed guidance about what one needs to do in each of the Cloud Adoption phases for Server Migration starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete Server migration and management aligned to the Cloud Adoption Framework methodology.
    
    This eBook contains the following documents:    
-    [eBook_ServerMigration_Aligned_To_Cloud_Adoption_Framework](1_eBook_ServerMigration_Aligned_To_Cloud_Adoption_Framework.docx)
-    [eBook_ServerMigration_Deployment_Guide](eBook_ServerMigration_Deployment_Guide.docx)
+    [eBook_ServerMigration_Aligned_To_Cloud_Adoption_Framework](1_eBook_ServerMigration_Aligned_To_Cloud_Adoption_Framework.docx)  
+    [eBook_ServerMigration_Deployment_Guide](2_eBook_ServerMigration_Deployment_Guide.docx)
     
 
 *  [Server Migration CAF DevOps Project TaskList](3_ServerMigration_CAF_DevOps_ProjectTaskList.zip)
@@ -22,7 +22,7 @@ The Server Adoption CAF Solution Factory is collection of eBook, TaskList in Dev
     * Sign in to the [Azure DevOps Demo Generator site](https://azuredevopsdemogenerator.azurewebsites.net/)  
     * Provide project name, select your Org, and choose [Server Migration DevOps Project Tasklist](3_ServerMigration_CAF_DevOps_ProjectTaskList.zip) template from this GitHub Repo 
 
-*  [Server Migration CAF Project TaskList.xlsx](4_ServerMigration_CAF_Project_TaskList)
+*  [Server Migration CAF Project TaskList](4_ServerMigration_CAF_Project_TaskList.xlsx)
    If you are not leveraging Azure DevOps for project management, no worries. We have provided all the activities in an excel sheet which can be leveraged as is or imported into your own project management tool of choice.  
 
  * [CAF Governance Security for Server Migration - Security policies](6_ServerMigration_GovernanceSecurityPolicy.xlsx)
@@ -34,10 +34,10 @@ The Server Adoption CAF Solution Factory is collection of eBook, TaskList in Dev
 
  [Azure Cloud Adoption Framework](https://www.microsoft.com/azure/partners/b/enable/cloud-adoption-framework)
 
- [Cloud Adoption Framework for Azure Partners](https://www.microsoft.com/azure/partners/adopt?filters=all)
+ [Azure Cloud Adoption Framework Partners](https://www.microsoft.com/azure/partners/adopt?filters=all)
 
 
-## Migration Funding Programs
+## Migration Programs
  [Azure Migration Program Funding](https://azure.microsoft.com/en-us/migration/migration-program) 
 
  [Microsoft FastTrack for Azure](https://azure.microsoft.com/en-us/programs/azure-fasttrack)
